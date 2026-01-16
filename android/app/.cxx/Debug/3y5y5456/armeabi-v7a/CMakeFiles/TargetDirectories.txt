@@ -1,0 +1,2 @@
+E:/foodking merchant/foodking-merchant-app/android/app/.cxx/Debug/3y5y5456/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/foodking merchant/foodking-merchant-app/android/app/.cxx/Debug/3y5y5456/armeabi-v7a/CMakeFiles/rebuild_cache.dir

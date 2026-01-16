@@ -1,0 +1,2 @@
+/Users/macbook/Documents/Mobile doc/merchant-app/android/app/.cxx/Debug/k4e6a385/x86/CMakeFiles/edit_cache.dir
+/Users/macbook/Documents/Mobile doc/merchant-app/android/app/.cxx/Debug/k4e6a385/x86/CMakeFiles/rebuild_cache.dir

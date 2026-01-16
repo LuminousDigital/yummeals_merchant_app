@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "800217855525",
+    "project_id": "yummeals-app",
+    "storage_bucket": "yummeals-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800217855525:android:69e8a0ac40f316ee6ef1cc",
+        "android_client_info": {
+          "package_name": "com.techverse.yummeals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJRvf-4Jh43FlNZrunvkw82O7rTi0UcUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800217855525:android:eaa07944079fe48e6ef1cc",
+        "android_client_info": {
+          "package_name": "com.techverse.yummeals_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJRvf-4Jh43FlNZrunvkw82O7rTi0UcUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800217855525:android:88c88f5308741ff76ef1cc",
+        "android_client_info": {
+          "package_name": "com.techverse.yummeals_merchant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJRvf-4Jh43FlNZrunvkw82O7rTi0UcUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+/Users/macbook/Documents/Mobile doc/merchant-app/build/app/intermediates/cxx/RelWithDebInfo/6z3v65c2/obj/arm64-v8a
